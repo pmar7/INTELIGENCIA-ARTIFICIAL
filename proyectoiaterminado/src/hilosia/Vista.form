@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel2" min="-2" pref="202" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="ResPues1" min="-2" pref="167" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="ResPues2" min="-2" pref="167" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="ResPues3" min="-2" pref="167" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="ResPues4" min="-2" pref="167" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jScrollPane1" min="-2" pref="452" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jLabel4" min="-2" pref="195" max="-2" attributes="0"/>
+                                  <Component id="SeleccionIdioma" min="-2" pref="165" max="-2" attributes="0"/>
+                                  <Component id="jLabel3" min="-2" pref="227" max="-2" attributes="0"/>
+                                  <Component id="LenguajeProgramacion" min="-2" pref="205" max="-2" attributes="0"/>
+                                  <Component id="jLabel1" min="-2" pref="249" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jScrollPane2" min="-2" pref="569" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="Guardar" min="-2" pref="522" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="IngresarPregunta" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="62" max="-2" attributes="0"/>
+              <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="ResPues1" alignment="3" min="-2" pref="57" max="-2" attributes="0"/>
+                          <Component id="ResPues2" alignment="3" min="-2" pref="57" max="-2" attributes="0"/>
+                          <Component id="ResPues4" alignment="3" min="-2" pref="57" max="-2" attributes="0"/>
+                          <Component id="ResPues3" alignment="3" min="-2" pref="57" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jScrollPane1" min="-2" pref="282" max="-2" attributes="0"/>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="SeleccionIdioma" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                              <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="LenguajeProgramacion" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jLabel1" min="-2" pref="144" max="-2" attributes="0"/>
+                              <EmptySpace max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="jScrollPane2" min="-2" pref="282" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="Guardar" alignment="3" min="-2" pref="102" max="-2" attributes="0"/>
+                          <Component id="IngresarPregunta" alignment="3" min="-2" pref="48" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="184" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Yu Gothic UI Semibold" size="36" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="99" green="0" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="CHAT JPN IA "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="1c" green="47" red="1c" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Black" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Respuestas Rapidas"/>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.SoftBevelBorderInfo">
+            <BevelBorder/>
+          </Border>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="ResPues3">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="cc" red="cc" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Variable" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xbf;Cu&#xe1;l es la forma de gestionar errores o excepciones al generar gr&#xe1;ficas en Power BI desde Python?"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ResPues3ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="ResPues4">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="cc" red="cc" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Variable" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xbf;Qu&#xe9; opciones existen para exportar o guardar gr&#xe1;ficas generadas en Power BI desde Java?"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ResPues4ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Guardar">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Variable" size="12" style="0"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="GuardarActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Variable" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Seleccione el lenguaje a programaci&#xf3;n"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="LenguajeProgramacion">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Variable" size="12" style="0"/>
+        </Property>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="2">
+            <StringItem index="0" value="Java"/>
+            <StringItem index="1" value="Phyton"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="LenguajeProgramacionActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="69" green="a8" id="Actions.Green" palette="3" red="59" type="palette"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Variable" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Seleccione el Idioma "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="SeleccionIdioma">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Variable" size="12" style="0"/>
+        </Property>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="2">
+            <StringItem index="0" value="Castellano"/>
+            <StringItem index="1" value="Ingles"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JButton" name="ResPues1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="cc" red="cc" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Variable" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xbf;Cu&#xe1;l es la forma recomendada de generar gr&#xe1;ficas de Power BI desde una aplicaci&#xf3;n Java? "/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ResPues1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="ResPues2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="cc" red="cc" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Variable" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xbf;Qu&#xe9; es JFreeChart y para qu&#xe9; se utiliza en programaci&#xf3;n en Java?"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ResPues2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="jTable1">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI Semibold" size="12" style="0"/>
+            </Property>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="1" rowCount="31">
+                <Column editable="true" title="PREGUNTAS DISPONIBLES IA" type="java.lang.Object">
+                  <Data value="&#xbf;Cu&#xe1;l es la forma recomendada de generar gr&#xe1;ficas de Power BI desde una aplicaci&#xf3;n Java/Python?"/>
+                  <Data value="&#xbf;Qu&#xe9; biblioteca o API se utiliza com&#xfa;nmente para interactuar con Power BI desde Java/Python? "/>
+                  <Data value="&#xbf;C&#xf3;mo se autentica una aplicaci&#xf3;n Java/Python para conectarse a Power BI y generar gr&#xe1;ficas?"/>
+                  <Data value="&#xbf;Cu&#xe1;les son los principales tipos de gr&#xe1;ficas que se pueden generar utilizando Power BI desde Java/Python?"/>
+                  <Data value="&#xbf;C&#xf3;mo se pueden personalizar las propiedades de una gr&#xe1;fica en Power BI desde Java/Python?"/>
+                  <Data value="&#xbf;Es posible agregar interactividad a las gr&#xe1;ficas generadas desde una aplicaci&#xf3;n Java/Python en Power BI?"/>
+                  <Data value="&#xbf;Qu&#xe9; m&#xe9;todos se utilizan para actualizar din&#xe1;micamente los datos en una gr&#xe1;fica de Power BI desde Java/Python? "/>
+                  <Data value="&#xbf;Cu&#xe1;l es la forma de gestionar errores o excepciones al generar gr&#xe1;ficas en Power BI desde Java/Python?"/>
+                  <Data value="&#xbf;C&#xf3;mo se pueden filtrar datos en una gr&#xe1;fica de Power BI generada desde una aplicaci&#xf3;n Java/Python? "/>
+                  <Data value="&#xbf;Qu&#xe9; consideraciones de rendimiento se deben tener en cuenta al generar gr&#xe1;ficas en Power BI desde Java/Python? "/>
+                  <Data value="&#xbf;Es posible generar gr&#xe1;ficas en tiempo real utilizando Power BI desde una aplicaci&#xf3;n Java/Python?"/>
+                  <Data value="&#xbf;Qu&#xe9; opciones existen para exportar o guardar gr&#xe1;ficas generadas en Power BI desde Java/Python? "/>
+                  <Data value="&#xbf;C&#xf3;mo se pueden incrustar gr&#xe1;ficas de Power BI en una aplicaci&#xf3;n web desarrollada en Java/Python?"/>
+                  <Data value="&#xbf;Qu&#xe9; ventajas ofrece el uso de Power BI Embedded en comparaci&#xf3;n con Power BI Service desde una aplicaci&#xf3;n Java/Python?"/>
+                  <Data value="&#xbf;Cu&#xe1;les son las mejores pr&#xe1;cticas para la visualizaci&#xf3;n y presentaci&#xf3;n de gr&#xe1;ficas generadas en Power BI desde Java/Python?"/>
+                  <Data value="&#xbf;Qu&#xe9; es JFreeChart y para qu&#xe9; se utiliza en programaci&#xf3;n en Java? "/>
+                  <Data value="&#xbf;Cu&#xe1;l es la funci&#xf3;n principal de la librer&#xed;a JFreeChart en la creaci&#xf3;n de gr&#xe1;ficos en Java?"/>
+                  <Data value="&#xbf;Qu&#xe9; tipos de gr&#xe1;ficos se pueden crear utilizando JFreeChart?"/>
+                  <Data value="&#xbf;Cu&#xe1;l es la clase principal que se utiliza para crear un gr&#xe1;fico en JFreeChart?"/>
+                  <Data value="&#xbf;Qu&#xe9; m&#xe9;todos se utilizan para agregar datos a un gr&#xe1;fico en JFreeChart? "/>
+                  <Data value="&#xbf;Cu&#xe1;les son las principales caracter&#xed;sticas de JFreeChart que lo diferencian de otras librer&#xed;as de gr&#xe1;ficos en Java?"/>
+                  <Data value="&#xbf;C&#xf3;mo se personaliza la apariencia de un gr&#xe1;fico en JFreeChart?"/>
+                  <Data value="&#xbf;C&#xf3;mo se personaliza la apariencia de un gr&#xe1;fico en JFreeChart?"/>
+                  <Data value="&#xbf;C&#xf3;mo se puede exportar un gr&#xe1;fico creado con JFreeChart a un archivo de imagen? &#xbf;Que es la espera activa (busy waiting) y cuando es apropiada en programacion de hilos?"/>
+                  <Data value="&#xbf;C&#xf3;mo se puede exportar un gr&#xe1;fico creado con JFreeChart a un archivo de imagen? "/>
+                  <Data value="&#xbf;Qu&#xe9; tipos de formatos de exportaci&#xf3;n de imagen son compatibles con JFreeChart?"/>
+                  <Data value="&#xbf;Qu&#xe9; es la capacidad de interactividad en JFreeChart y c&#xf3;mo se logra?"/>
+                  <Data value="&#xbf;Cu&#xe1;l es el prop&#xf3;sito de la librer&#xed;a JFreeChart Demo y c&#xf3;mo se puede utilizar para aprender sobre la creaci&#xf3;n de gr&#xe1;ficos? "/>
+                  <Data value="&#xbf;Qu&#xe9; m&#xe9;todos se pueden utilizar para agregar etiquetas y leyendas a un gr&#xe1;fico en JFreeChart? "/>
+                  <Data value="&#xbf;C&#xf3;mo se manejan los eventos de clic en un gr&#xe1;fico creado con JFreeChart? "/>
+                  <Data value="&#xbf;Qu&#xe9; es el API de JFreeChart y cu&#xe1;l es su importancia en el desarrollo de aplicaciones basadas en gr&#xe1;ficos en Java?"/>
+                </Column>
+              </Table>
+            </Property>
+            <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+              <TableColumnModel selectionModel="0">
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+              </TableColumnModel>
+            </Property>
+            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="IngresarPregunta">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="99" green="0" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" &#x21aa;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="IngresarPreguntaActionPerformed"/>
+        <EventHandler event="propertyChange" listener="java.beans.PropertyChangeListener" parameters="java.beans.PropertyChangeEvent" handler="IngresarPreguntaPropertyChange"/>
+      </Events>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="Pantalla">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI Variable" size="14" style="0"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
